@@ -22,5 +22,7 @@ String g = "to";
 String ten = "10";
 String h = "by";
 String one = "1";
+int two = 1;
 print(d+z+space+e+space+f+space+g+space+ten+y+space+h+space+one+z, "\n"); //Character Escapes, \n (NEW LINE), \t(TAB)
-println("\t\t\t", d+z, e, f, g, ten+y, h, one+z);
+println("\t\t\t", d+z, e, f, g, ten+y, h, int(one)+two+z); //Casting, making a string into a number
+println(int(one)+two );
