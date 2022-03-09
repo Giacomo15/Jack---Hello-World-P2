@@ -1,3 +1,16 @@
+//Global Variables
+//
+void setup() {}//End setup
+//
+void draw() {}//End draw
+//
+void keyPressed() {}//End keyPressed
+//
+void mousePressed() {}//End mousePressed
+//
+//What we will copy and paste from the Static Program
+/*
+
 println("Hello World");
 String firstSentence = "You said Hello!";
 String secondSentece ="Mr. Mercer counts to 10, by 1.";
@@ -25,4 +38,6 @@ String one = "1";
 int two = 1;
 print(d+z+space+e+space+f+space+g+space+ten+y+space+h+space+one+z, "\n"); //Character Escapes, \n (NEW LINE), \t(TAB)
 println("\t\t\t", d+z, e, f, g, ten+y, h, int(one)+two+z); //Casting, making a string into a number
-println(int(one)+two );
+println("One plus two is", one+two); //Casting is int(one), to change STRING to INTEGER
+*/
+//ASCII values make the adding bad
