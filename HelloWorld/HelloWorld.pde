@@ -31,7 +31,7 @@ void draw() //Keeps going forever
   println(d+z, e, f, g, ten+y, h, str(two)+z);
   twenty/=skipCount; //Formula to count backwards from 10000
   println(d+z, e, f, g, one+y, "backwards from", str(twenty)+z);
-  thirty/=skipCount; //Formula to count backwards from 10000
+  thirty/=skipCount; 
   println(d+z, e, f, g, one+y, "backwards from", str(thirty)+z);
 }//End draw
 //
